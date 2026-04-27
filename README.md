@@ -10,25 +10,21 @@ Most AI writes. This one reads before it speaks.
 
 *For fiction writers revising finished drafts.*
 
-[**Open the app**](https://app.kaizenrw.com) · [Live demo](https://kaizenrw.com/#demo) · [Field guide](https://app.kaizenrw.com/field-guide) · [Privacy](https://kaizenrw.com/privacy)
+[**Open the app**](https://app.kaizenrw.com) &nbsp;·&nbsp; [Live demo](https://kaizenrw.com/#demo) &nbsp;·&nbsp; [Field guide](https://app.kaizenrw.com/field-guide) &nbsp;·&nbsp; [Privacy](https://kaizenrw.com/privacy)
 
 </div>
-
-<br />
 
 <img width="1163" height="1055" alt="Screenshot 2026-04-27 001651" src="https://github.com/user-attachments/assets/ee978d2d-2df7-490a-a6f8-9d2a99fd26eb" />
 
 ---
 
+> *Not a grammar checker. Not a writing AI. A close reader with memory.*
+
 ## What it is
 
-A close reader with memory. It opens your manuscript, reads it the way an attentive editor would, and leaves marks for pacing, voice, rhythm, repetition, and tension. Not errors. Things worth a second look.
+It opens your manuscript and reads it the way an attentive editor would. Pacing, voice, rhythm, repetition, tension. Then it leaves marks. Not errors. Things worth a second look.
 
 You teach it what you meant. The next chapter gets read with what you just taught it.
-
-## What it isn't
-
-Not a grammar checker. Not a prose generator. Not a chatbot. Not a first-draft assistant.
 
 ---
 
@@ -56,14 +52,14 @@ Not a grammar checker. Not a prose generator. Not a chatbot. Not a first-draft a
 
 #### Files in, files out
 
-Import TXT, Markdown, or DOCX. Export with native Word comments your editor can answer inline. Send the file back and their replies land beside your own marks.
+Import TXT, Markdown, or DOCX. Export a revised manuscript with native Word comments your editor can answer inline. Send the file back and their replies land beside your own marks.
 
 </td>
 <td width="33%" valign="top">
 
 #### A second pass *(Pro)*
 
-Scene cards. Tension arc. A POV drift flag with the paragraph that broke character. An editorial letter whose claims point at the sentences they mean.
+Scene cards. Tension arc. A POV drift flag with the paragraph that broke character. An editorial letter whose claims point at the sentences it means.
 
 </td>
 <td width="33%" valign="top">
@@ -103,7 +99,7 @@ Quick-fix streams in as editable text. Apply and the page doesn't jump. Undo thr
 <tr>
 <td><strong>Pro</strong></td>
 <td>$20/mo</td>
-<td>Stronger model. 100 chapter scans/mo. 5 full-manuscript scans/mo. 250 combined actions/mo. Fair-use throttling, no hard paywall.</td>
+<td>Stronger AI for deeper reads. 100 chapter scans/mo. 5 full-manuscript scans/mo. 250 combined actions/mo. Fair-use throttling, no hard paywall.</td>
 </tr>
 <tr>
 <td><strong>BYOK</strong></td>
@@ -120,7 +116,7 @@ Your draft, your marks, and your dictionary live in your browser. Not on a serve
 
 Nothing you write here trains a model. Nothing is stored or reused after the request. Hosted plans run on paid commercial API tiers. BYOK bills go straight to your provider.
 
-[Full data path →](https://kaizenrw.com/privacy)
+[How the data path works →](https://kaizenrw.com/privacy)
 
 ---
 
@@ -150,7 +146,7 @@ Yes. The dictionary and revision memory stick with the whole manuscript.
 <details>
 <summary><strong>What happens when I hit a limit?</strong></summary>
 
-The app tells you which limit you've reached and stops that action type until it resets. Free limits are per manuscript. Pro resets monthly. Switch to BYOK to keep working while hosted limits refill.
+The app tells you which limit you've reached and stops that action type. Free limits are per-account, shared across all your manuscripts. Pro resets monthly. Switch to BYOK to keep working while hosted limits refill.
 
 </details>
 
@@ -179,6 +175,5 @@ Free to try. One email. One link. Your manuscript.
 [**Start reading →**](https://kaizenrw.com)
 
 </div>
-
 
 ![](https://hit.yhype.me/github/profile?account_id=10876982)
