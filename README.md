@@ -1,72 +1,70 @@
 <div align="center">
 
-<img src="https://kaizenrw.com/apple-touch-icon.png" width="96" alt="Kaizen R/W" />
+<img src="https://kaizenrw.com/apple-touch-icon.png" width="96" alt="Kaizen Suite" />
 
-# Kaizen R/W
+# Kaizen Suite
 
-### A reader that learns how you write.
+### Three tools. One taste.
 
-Most AI writes. This one reads before it speaks.
+A writer's revision suite that turns scattered material into a coherent manuscript, then reads it back while learning how you write.
 
-*For fiction writers revising finished drafts.*
+*Weaver &rarr; Rewriter &rarr; R/W. For fiction writers with messy drafts.*
 
-[**Open the app**](https://app.kaizenrw.com) &nbsp;·&nbsp; [Live demo](https://kaizenrw.com/#demo) &nbsp;·&nbsp; [Field guide](https://app.kaizenrw.com/field-guide) &nbsp;·&nbsp; [Privacy](https://kaizenrw.com/privacy)
+[**Open the suite**](https://kaizenrw.com) &nbsp;&middot;&nbsp; [Pricing](https://kaizenrw.com/pricing) &nbsp;&middot;&nbsp; [Workshop](https://kaizenrw.com/workshop) &nbsp;&middot;&nbsp; [Field guide](https://krw.kaizenrw.com/field-guide) &nbsp;&middot;&nbsp; [Privacy](https://kaizenrw.com/reader/privacy)
 
 </div>
 
-<img width="1163" height="1055" alt="Screenshot 2026-04-27 001651" src="https://github.com/user-attachments/assets/ee978d2d-2df7-490a-a6f8-9d2a99fd26eb" />
+<img width="1163" height="1055" alt="Kaizen R/W reading a manuscript" src="https://github.com/user-attachments/assets/ee978d2d-2df7-490a-a6f8-9d2a99fd26eb" />
+
+<div align="center"><em>Kaizen R/W, the last station: the reading room where a draft becomes finishable.</em></div>
 
 ---
 
-> *Not a grammar checker. Not a writing AI. A close reader with memory.*
+## Why this exists
 
-## What it is
+I write fiction. Somewhere in the third draft I had what every writer eventually has: a drawer of loose scenes, three versions of the same chapter, notes to myself I could no longer read, and no honest way to tell which pile was the book. Every tool I tried wanted to write it for me. I wanted to read the one I already had.
 
-It opens your manuscript and reads it the way an attentive editor would. Pacing, voice, rhythm, repetition, tension. Then it leaves marks. Not errors. Things worth a second look.
-
-You teach it what you meant. The next chapter gets read with what you just taught it.
+So I built the bench I needed, and then I built the two stations in front of it. Kaizen Suite is three tools that sit in a row, each one taking the manuscript a little further toward finished. It starts where the work actually is, buried in fragments, and it reads before it speaks.
 
 ---
 
-## The loop
+## The bench, in three stations
 
 <div align="center">
 
-**Notice. &nbsp; Teach. &nbsp; Continue.**
+**Weaver &nbsp; &rarr; &nbsp; Rewriter &nbsp; &rarr; &nbsp; R/W**
 
 </div>
 
-**1. It reads before it speaks.** &nbsp;Marks appear as you scroll. Findings, not edits.
-
-**2. You teach it what you meant.** &nbsp;Dismiss a mark, explain intent, or save the pattern to your dictionary.
-
-**3. The next pass is quieter.** &nbsp;What you've handled stops crowding the page. What's left is what's still worth looking at.
-
----
-
-## What's in the kit
+The dictionary you build at one station is still on the bench at the next.
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-#### Files in, files out
+#### Weaver *(Kw)*
 
-Import TXT, Markdown, or DOCX. Export a revised manuscript with native Word comments your editor can answer inline. Send the file back and their replies land beside your own marks.
+**Find the manuscript in the mess.** Weaver takes the pile and works the loose threads into a weave. Variants of a scene lie side by side so you can pick your line, and what you keep it remembers.
 
-</td>
-<td width="33%" valign="top">
-
-#### A second pass *(Pro)*
-
-Scene cards. Tension arc. A POV drift flag with the paragraph that broke character. An editorial letter whose claims point at the sentences it means.
+*Free: 30 Reads a month.*
 
 </td>
 <td width="33%" valign="top">
 
-#### Revision in place
+#### Rewriter *(Kr)*
 
-Quick-fix streams in as editable text. Apply and the page doesn't jump. Undo three deep. What you taught in Chapter 1 is still being used in Chapter 30.
+**Close the seams.** Rewriter carries your dictionary and your voice forward, then mends the joins chapter by chapter. Every pass stops at your hand before it moves.
+
+*Free: 10 Reads and 3 Writes a month.*
+
+</td>
+<td width="33%" valign="top">
+
+#### R/W *(Kr/w)*
+
+**Read it the way an editor would.** R/W reads your manuscript closely and leaves a mark wherever something is worth a second look. You tell it what you meant, and the next chapter comes back quieter.
+
+*Free: 10 Chapter Reads, 40 Passage Reads, 20 Writes a month.*
 
 </td>
 </tr>
@@ -74,12 +72,9 @@ Quick-fix streams in as editable text. Apply and the page doesn't jump. Undo thr
 
 ---
 
-## Who it's for
+## What carries between them
 
-- Novelists on a second or third draft
-- Short story writers cleaning up before they submit
-- Indie authors who want sharper notes between passes
-- Writers who finished the draft and need help picking what to fix
+Plenty of tools will rewrite a sentence. Few remember why you kept one line and cut the next. Kaizen carries that judgment the whole length of the bench: the taste you teach Weaver rides into Rewriter, and the voice you teach Rewriter rides into R/W. That memory is the spine of the thing.
 
 ---
 
@@ -93,74 +88,87 @@ Quick-fix streams in as editable text. Apply and the page doesn't jump. Undo thr
 </tr>
 <tr>
 <td><strong>Free</strong></td>
-<td>$0</td>
-<td>Hosted AI, no key required. 3 chapter scans. 20 AI reads. 10 quick-fix rewrites. As many manuscripts as you want.</td>
+<td>$0 per app</td>
+<td>A fast hosted model, no key needed. A real monthly allowance of Reads and Writes on every app. As many manuscripts as you want.</td>
 </tr>
 <tr>
 <td><strong>Pro</strong></td>
 <td>$20/mo</td>
-<td>Stronger AI for deeper reads. 100 chapter scans/mo. 5 full-manuscript scans/mo. 250 combined actions/mo. Fair-use throttling, no hard paywall.</td>
+<td>A premium reasoning model and room for a manuscript-length pass. The full monthly allowance on the one app you pick.</td>
+</tr>
+<tr>
+<td><strong>Suite Pro</strong></td>
+<td>$30/mo</td>
+<td>Pro across all three apps under one subscription. Each app keeps its full Pro allowance. Half the cost of three separate Pros.</td>
 </tr>
 <tr>
 <td><strong>BYOK</strong></td>
 <td>Free, any plan</td>
-<td>Bring your own API key. Multiple model options. Key stays in your browser. Doesn't touch hosted limits. Your provider bills you.</td>
+<td>Bring your own provider key. It stays in your browser and your provider bills you. Hosted caps stop applying on your own traffic.</td>
 </tr>
 </table>
 
+Every plan gets Google Drive backup and restore for your manuscripts. Automatic cross-device sync comes with Pro.
+
+<details>
+<summary><strong>Monthly allowances, by app</strong></summary>
+
+<br />
+
+| App | Free | Pro *(and Suite Pro)* |
+| --- | --- | --- |
+| **Weaver** | 30 Reads | 300 Reads |
+| **Rewriter** | 10 Reads, 3 Writes | 100 Reads, 30 Writes |
+| **R/W** | 10 Chapter Reads, 40 Passage Reads, 20 Writes | 200 Chapter Reads, 500 Passage Reads or Writes (shared pool), 10 Full Reads |
+
+Caps reset on the 1st of each month. Your manuscripts, marks, and dictionary live in your browser and never count against a limit.
+
+</details>
+
 ---
 
-## Privacy
+## Your book stays yours
 
-Your draft, your marks, and your dictionary live in your browser. Not on a server.
+Your drafts, your marks, and the dictionary you build live in your browser and stay on your device. Nothing you write here trains a model, and nothing is kept once a request comes back. Work on the machinery never touches your manuscript.
 
-Nothing you write here trains a model. Nothing is stored or reused after the request. Hosted plans run on paid commercial API tiers. BYOK bills go straight to your provider.
-
-[How the data path works →](https://kaizenrw.com/privacy)
+[How the data path works &rarr;](https://kaizenrw.com/reader/privacy)
 
 ---
 
 ## FAQ
 
 <details>
-<summary><strong>What stage is this for?</strong></summary>
+<summary><strong>Which tool do I start with?</strong></summary>
 
-Finished drafts. Revision, not brainstorming.
+Wherever your draft actually is. Weaver for a pile of fragments, Rewriter for a rough but whole draft with bad seams, R/W for a finished draft you need to read closely. One station or all three.
 
 </details>
 
 <details>
 <summary><strong>How does it learn?</strong></summary>
 
-Through the dictionary. Dismissals and intent notes save locally and carry into the next read.
-
-</details>
-
-<details>
-<summary><strong>Does it work with multi-chapter novels?</strong></summary>
-
-Yes. The dictionary and revision memory stick with the whole manuscript.
+Through the dictionary. What you keep, cut, and explain saves to your browser and carries into the next read, and into the next tool.
 
 </details>
 
 <details>
 <summary><strong>What happens when I hit a limit?</strong></summary>
 
-The app tells you which limit you've reached and stops that action type. Free limits are per-account, shared across all your manuscripts. Pro resets monthly. Switch to BYOK to keep working while hosted limits refill.
+The app names the counter that's full and rests that action until the 1st. The others keep working. Bring your own key to keep going right away.
 
 </details>
 
 <details>
 <summary><strong>What if I cancel Pro mid-month?</strong></summary>
 
-Pro stays active to the end of the billing period, then drops to free. Your manuscripts, marks, dictionary, and revision history stay in your browser regardless of tier.
+Pro stays with you to the end of the billing period, then settles back to Free. Your manuscripts, marks, dictionary, and history stay in your browser regardless of tier.
 
 </details>
 
 <details>
 <summary><strong>Is this safe for unpublished work?</strong></summary>
 
-Your manuscript lives on your device. When you request an action, the relevant text goes through our proxy to the provider you picked and back. Nothing else.
+Your manuscript lives on your device. When you ask for something, the passage in hand goes through our proxy to the provider you picked and comes back. Nothing else leaves.
 
 </details>
 
@@ -168,11 +176,11 @@ Your manuscript lives on your device. When you request an action, the relevant t
 
 <div align="center">
 
-### Start with a reading.
+### Built in the open, one week at a time.
 
-Free to try. One email. One link. Your manuscript.
+I write down what changed in the suite every Sunday, over in the [workshop](https://kaizenrw.com/workshop). The name on the door means small acts, compounding. It is the only way I know how to build.
 
-[**Start reading →**](https://kaizenrw.com)
+[**Start with Kaizen &rarr;**](https://kaizenrw.com)
 
 </div>
 
