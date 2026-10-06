@@ -8,9 +8,9 @@
 
 A writer's revision suite that turns scattered material into a coherent manuscript, then reads it back while learning how you write.
 
-*Weaver &rarr; Rewriter &rarr; R/W. For fiction writers with messy drafts.*
+*Weaver &rarr; Rewriter &rarr; Reader. For fiction writers with messy drafts.*
 
-[**Open the suite**](https://kaizenrw.com) &nbsp;&middot;&nbsp; [Pricing](https://kaizenrw.com/pricing) &nbsp;&middot;&nbsp; [Workshop](https://kaizenrw.com/workshop) &nbsp;&middot;&nbsp; [Field guide](https://krw.kaizenrw.com/field-guide) &nbsp;&middot;&nbsp; [Privacy](https://kaizenrw.com/reader/privacy)
+[**Open the suite**](https://kaizenrw.com) &nbsp;&middot;&nbsp; [Pricing](https://kaizenrw.com/pricing) &nbsp;&middot;&nbsp; [Workshop](https://kaizenrw.com/workshop) &nbsp;&middot;&nbsp; [Field guide](https://kaizenrw.com/suite-guide) &nbsp;&middot;&nbsp; [Privacy](https://kaizenrw.com/privacy)
 
 </div>
 
@@ -32,11 +32,11 @@ So I built the bench I needed, and then I built the two stations in front of it.
 
 <div align="center">
 
-**Weaver &nbsp; &rarr; &nbsp; Rewriter &nbsp; &rarr; &nbsp; R/W**
+**Weaver &nbsp; &rarr; &nbsp; Rewriter &nbsp; &rarr; &nbsp; Reader**
 
 </div>
 
-The dictionary you build at one station is still on the bench at the next.
+Your teaching can travel with the book. Each app keeps its own copy, and Pro puts that teaching to work in Rewriter.
 
 <table>
 <tr>
@@ -46,23 +46,23 @@ The dictionary you build at one station is still on the bench at the next.
 
 **Find the manuscript in the mess.** Weaver takes the pile and works the loose threads into a weave. Variants of a scene lie side by side so you can pick your line, and what you keep it remembers.
 
-*Free: 30 Reads a month.*
+*Free: the complete app on your device, with Google Drive backup. Hosted Reads begin with Pro; you can also use your own Gemini key once you sign in.*
 
 </td>
 <td width="33%" valign="top">
 
 #### Rewriter *(Kr)*
 
-**Close the seams.** Rewriter carries your dictionary and your voice forward, then mends the joins chapter by chapter. Every pass stops at your hand before it moves.
+**Close the seams.** Rewriter reads the whole book and mends what you ask. Each change is checked, recorded, and undoable. Pro puts your teaching to work.
 
-*Free: 10 Reads and 3 Writes a month.*
+*Free: 20 Reads and 3 Writes a month.*
 
 </td>
 <td width="33%" valign="top">
 
-#### R/W *(Kr/w)*
+#### Reader *(R.)*
 
-**Read it the way an editor would.** R/W reads your manuscript closely and leaves a mark wherever something is worth a second look. You tell it what you meant, and the next chapter comes back quieter.
+**Read it the way an editor would.** Reader reads your manuscript closely and leaves a mark wherever something is worth a second look. You tell it what you meant, and the next chapter comes back quieter.
 
 *Free: 10 Chapter Reads, 40 Passage Reads, 20 Writes a month.*
 
@@ -74,7 +74,7 @@ The dictionary you build at one station is still on the bench at the next.
 
 ## What carries between them
 
-Plenty of tools will rewrite a sentence. Few remember why you kept one line and cut the next. Kaizen carries that judgment the whole length of the bench: the taste you teach Weaver rides into Rewriter, and the voice you teach Rewriter rides into R/W. That memory is the spine of the thing.
+Plenty of tools will rewrite a sentence. Few remember why you kept one line and cut the next. Kaizen keeps that judgment with the book: sources, decisions, teaching, and the history of what changed. Complete archives and handoffs carry the record between apps. With Pro, your teaching travels into Rewriter and on to Reader. That memory is the spine of the thing.
 
 ---
 
@@ -89,12 +89,12 @@ Plenty of tools will rewrite a sentence. Few remember why you kept one line and 
 <tr>
 <td><strong>Free</strong></td>
 <td>$0 per app</td>
-<td>A fast hosted model, no key needed. A real monthly allowance of Reads and Writes on every app. As many manuscripts as you want.</td>
+<td>A monthly hosted allowance in Reader and Rewriter, no key needed. The complete local Weaver, with free Google Drive backup. Complete archives in every app.</td>
 </tr>
 <tr>
 <td><strong>Pro</strong></td>
 <td>$20/mo</td>
-<td>A premium reasoning model and room for a manuscript-length pass. The full monthly allowance on the one app you pick.</td>
+<td>The full Pro allowance on the one app you pick. Unused paid allowance rolls over while you stay subscribed.</td>
 </tr>
 <tr>
 <td><strong>Suite Pro</strong></td>
@@ -104,11 +104,11 @@ Plenty of tools will rewrite a sentence. Few remember why you kept one line and 
 <tr>
 <td><strong>BYOK</strong></td>
 <td>Free, any plan</td>
-<td>Bring your own provider key. It stays in your browser and your provider bills you. Hosted caps stop applying on your own traffic.</td>
+<td>Your provider bills you and your Kaizen allowance stays untouched. Weaver keeps your Gemini key in your browser; Reader and Rewriter encrypt and store your key on the server. Rewriter also supports your Claude or ChatGPT subscription through Linnea's helper on your computer.</td>
 </tr>
 </table>
 
-Every plan gets Google Drive backup and restore for your manuscripts. Automatic cross-device sync comes with Pro.
+Reader and Rewriter keep your books privately in your Kaizen account, available wherever you sign in on every plan. Their Google Drive backups happen when you ask. Weaver keeps its Books in this browser, with free optional automatic backup to your own Drive.
 
 <details>
 <summary><strong>Monthly allowances, by app</strong></summary>
@@ -117,11 +117,11 @@ Every plan gets Google Drive backup and restore for your manuscripts. Automatic 
 
 | App | Free | Pro *(and Suite Pro)* |
 | --- | --- | --- |
-| **Weaver** | 30 Reads | 300 Reads |
-| **Rewriter** | 10 Reads, 3 Writes | 100 Reads, 30 Writes |
-| **R/W** | 10 Chapter Reads, 40 Passage Reads, 20 Writes | 200 Chapter Reads, 500 Passage Reads or Writes (shared pool), 10 Full Reads |
+| **Weaver** | Complete local app; 0 hosted Reads | 300 hosted Reads |
+| **Rewriter** | 20 Reads, 3 Writes | 100 Reads, 30 Writes |
+| **Reader** | 10 Chapter Reads, 40 Passage Reads, 20 Writes | 200 Chapter Reads, 500 Passage Reads or Writes (shared pool), 10 Full Reads |
 
-Caps reset on the 1st of each month. Your manuscripts, marks, and dictionary live in your browser and never count against a limit.
+Hosted allowances renew by calendar month. Unused paid allowance rolls over while you stay subscribed. Rewriter also limits hosted attempts at mends, voice passes, and reconciliations to 10 on Free or 100 on Pro in any 24 hours. Bringing a book in and downloading its archive use no hosted allowance. See [current pricing](https://kaizenrw.com/pricing) for the complete terms.
 
 </details>
 
@@ -129,9 +129,11 @@ Caps reset on the 1st of each month. Your manuscripts, marks, and dictionary liv
 
 ## Your book stays yours
 
-Your drafts, your marks, and the dictionary you build live in your browser and stay on your device. Nothing you write here trains a model, and nothing is kept once a request comes back. Work on the machinery never touches your manuscript.
+Reader and Rewriter keep your manuscripts, saved drafts, history, teaching, and complete replies privately under your Kaizen account on Kaizen's Cloudflare storage. Weaver keeps its Books in your browser unless you export them, turn on Drive backup, send a Book to another app, or ask for a provider Read.
 
-[How the data path works &rarr;](https://kaizenrw.com/reader/privacy)
+When you ask Linnea to read or write, the passage or book and the context the request needs go to the provider. Reader saves the exact request with your book; Rewriter saves your request and the input of each checked step. Both keep the complete reply so finished work can be recovered without asking again. Provider retention and training terms depend on the connection you choose; your own key follows your provider account's terms.
+
+[How the data path works &rarr;](https://kaizenrw.com/privacy)
 
 ---
 
@@ -140,35 +142,35 @@ Your drafts, your marks, and the dictionary you build live in your browser and s
 <details>
 <summary><strong>Which tool do I start with?</strong></summary>
 
-Wherever your draft actually is. Weaver for a pile of fragments, Rewriter for a rough but whole draft with bad seams, R/W for a finished draft you need to read closely. One station or all three.
+Wherever your draft actually is. Weaver for a pile of fragments, Rewriter for a rough but whole draft with bad seams, Reader for a finished draft you need to read closely. One station or all three.
 
 </details>
 
 <details>
 <summary><strong>How does it learn?</strong></summary>
 
-Through the dictionary. What you keep, cut, and explain saves to your browser and carries into the next read, and into the next tool.
+Through your teaching and the record of what you keep, cut, and explain. Weaver keeps that record in your browser; Reader and Rewriter keep it with your account's book. Archives and handoffs carry it between apps, and Pro puts your teaching to work in Rewriter.
 
 </details>
 
 <details>
 <summary><strong>What happens when I hit a limit?</strong></summary>
 
-The app names the counter that's full and rests that action until the 1st. The others keep working. Bring your own key to keep going right away.
+Only the named hosted work pauses. Your books, earlier replies, writing, and exports stay open. Hosted allowances renew by calendar month, unused paid allowance rolls over while you stay subscribed, and your own key or supported subscription follows your provider's limits.
 
 </details>
 
 <details>
 <summary><strong>What if I cancel Pro mid-month?</strong></summary>
 
-Pro stays with you to the end of the billing period, then settles back to Free. Your manuscripts, marks, dictionary, and history stay in your browser regardless of tier.
+Pro stays with you to the end of the billing period, then settles back to Free. Reader and Rewriter books stay in your account, readable and ready to download. Weaver's local Books and Archive stay in your browser. In Rewriter, your teaching stays kept and returns to work with Pro.
 
 </details>
 
 <details>
 <summary><strong>Is this safe for unpublished work?</strong></summary>
 
-Your manuscript lives on your device. When you ask for something, the passage in hand goes through our proxy to the provider you picked and comes back. Nothing else leaves.
+Reader and Rewriter store your book privately under your Kaizen account; Weaver keeps its Books in your browser. Bringing a book in sends nothing to a model. When you ask for AI work, the book or passage and the context it needs go to the provider under that connection's data terms. Read the [privacy page](https://kaizenrw.com/privacy) before choosing a connection for sensitive work.
 
 </details>
 
